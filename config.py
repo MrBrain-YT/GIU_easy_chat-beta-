@@ -1,0 +1,3 @@
+HOST = ''
+PORT = 50004
+BUFFER = 1024
